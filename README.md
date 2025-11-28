@@ -1,4 +1,4 @@
-/di# xAutoClicker: Redefining Mouse Automation Intelligence
+# xAutoClicker: Redefining Mouse Automation Intelligence
 
 ## 🚀 The Smartest Auto Clicker in 2026
 
