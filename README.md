@@ -1,4 +1,4 @@
-# xAutoClicker: Redefining Mouse Automation Intelligence
+/di# xAutoClicker: Redefining Mouse Automation Intelligence
 
 ## 🚀 The Smartest Auto Clicker in 2026
 
@@ -68,7 +68,7 @@
 
 - Website: [xAutoClicker.com](https://xautoclicker.com)
 - GitHub: [@xAutoClicker](https://github.com/xAutoClicker)
-- Discord: [xAutoClicker.com](https://xautoclicker.com/discord)
+- Discord: [xAutoClicker.com/discord](https://xautoclicker.com/discord)
 
 
 ---
